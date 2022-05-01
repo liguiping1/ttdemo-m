@@ -1,3 +1,63 @@
+@font-face {
+  font-family: "ttdemo";
+  /* Project id 3370688 */
+  src: url('//at.alicdn.com/t/font_3370688_l678w6r74l.woff2?t=1651350853110') format('woff2'), url('//at.alicdn.com/t/font_3370688_l678w6r74l.woff?t=1651350853110') format('woff'), url('//at.alicdn.com/t/font_3370688_l678w6r74l.ttf?t=1651350853110') format('truetype');
+}
+.ttdemo {
+  font-family: "ttdemo" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ttdemoyanzhengma:before {
+  content: "\e601";
+}
+.ttdemodianzan:before {
+  content: "\e602";
+}
+.ttdemozuojiantou:before {
+  content: "\e603";
+}
+.ttdemopinglun:before {
+  content: "\e604";
+}
+.ttdemodianzan2:before {
+  content: "\e605";
+}
+.ttdemoshouji:before {
+  content: "\e606";
+}
+.ttdemolishi:before {
+  content: "\e607";
+}
+.ttdemoshanchu:before {
+  content: "\e608";
+}
+.ttdemosousuo:before {
+  content: "\e609";
+}
+.ttdemofenxiang:before {
+  content: "\e60a";
+}
+.ttdemogengduo:before {
+  content: "\e60b";
+}
+.ttdemoshouye:before {
+  content: "\e60c";
+}
+.ttdemozuopin:before {
+  content: "\e60d";
+}
+.ttdemowenda:before {
+  content: "\e60e";
+}
+.ttdemoyuedu:before {
+  content: "\e60f";
+}
+.ttdemoguanbi:before {
+  content: "\e610";
+}
 body {
   background-color: greenyellow;
 }
